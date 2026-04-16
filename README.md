@@ -1,21 +1,19 @@
 <div align="center">
-  <a href="https://abdownloadmanager.com" target="_blank">
-    <img width="180" src="assets/logo/app_logo_with_background.svg" alt="AB Download Manager Logo">
-  </a>
+    <img width="150" src="/logo.png"></img>
 </div>
-<h1 align="center">AB Download Manager</h1>
-<p align="center">
-    <a href="https://github.com/amir1376/ab-download-manager/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/amir1376/ab-download-manager?color=greenlight&label=latest%20release"></a>
-    <a href="https://abdownloadmanager.com"><img alt="AB Download Manager Website" src="https://img.shields.io/badge/project-website-purple?&labelColor=gray"></a>
-    <a href="https://t.me/abdownloadmanager_discussion"><img alt="Telegram Group" src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&labelColor=gray"></a>
-    <a href="https://t.me/abdownloadmanager"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&labelColor=gray"></a>
-    <a href="https://crowdin.com/project/ab-download-manager"><img alt="Crowdin" src="https://badges.crowdin.net/ab-download-manager/localized.svg"></a>
-</p>
+<h1 align="center">万物下载管理器</h1>
+<h4 align="center">一款好用的下载管理器</h4>
+<h4 align="center">支持 Windows 7 以上版本</h4>
+<div align="center">
 
-<a href="https://abdownloadmanager.com" target="_blank">
-    <img alt="AB Download Manager Banner" src="assets/banners/app_banner.png"/>
-</a>
+[![GitHub Release](https://img.shields.io/github/v/release/ELFTS/Everything-Download-Manager?label=正式版)](https://github.com/ELFTS/Everything-Download-Manager/releases/latest)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ELFTS/Everything-Download-Manager/total?label=总下载量)](https://github.com/ELFTS/Everything-Download-Manager/releases)
+[![Stars](https://img.shields.io/github/stars/ELFTS/Everything-Download-Manager?style=flat&label=收藏)](https://github.com/ELFTS/Everything-Download-Manager/stargazers)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ELFTS/Everything-Download-Manager?label=问题)](https://github.com/ELFTS/Everything-Download-Manager/issues)
 
+</div>
+
+---
 
 ## Description
 
